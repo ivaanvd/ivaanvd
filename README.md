@@ -2,8 +2,6 @@
 
 Estudiante de último curso de **Ingeniería Informática** en la Universidad de Zaragoza, con especialización en **Ingeniería del Software**. 
 
-Me apasiona construir software que resuelva problemas reales, desde aplicaciones web modernas con arquitecturas robustas hasta interfaces para hardware robótico. Me enfoco en el desarrollo **Full Stack**, las **arquitecturas limpias (DDD)** y la **experiencia de usuario (UX)**.
-
 ---
 
 ## 🛠️ Mis Proyectos Principales
@@ -19,8 +17,6 @@ Me apasiona construir software que resuelva problemas reales, desde aplicaciones
     - Implementación de **Diseño Guiado por el Dominio (DDD)** para asegurar la escalabilidad.
 - **Lo que aprendí:** Manejo de datos espaciales y estructuración de proyectos de software complejos siguiendo estándares de industria.
 
-> **Estado actual de la app:** Prototipo funcional / Fase de pruebas de arquitectura.
-
 ---
 
 ### 🚨 Proyecto Montgomery - Crime Analytics Portal
@@ -33,8 +29,6 @@ Me apasiona construir software que resuelva problemas reales, desde aplicaciones
     - Cálculo de **rutas más seguras** para ciudadanos mediante el índice IPP.
     - Mapas interactivos con filtros avanzados por tipo de delito y distritos.
 - **Lo que aprendí:** Integración de APIs de mapas, visualización de grandes volúmenes de datos y diseño orientado a la seguridad ciudadana.
-
-> **Estado actual de la app:** En desarrollo (Implementando modelos de predicción y alertas).
 
 ---
 
@@ -49,7 +43,6 @@ Me apasiona construir software que resuelva problemas reales, desde aplicaciones
     - Diseño centrado en la persona (DCP) para garantizar la accesibilidad total.
 - **Lo que aprendí:** Programación sobre hardware físico y adaptación de interfaces para usuarios con necesidades especiales (HRI - Interacción Persona-Robot).
 
-> **Estado actual de la app:** Fase de pruebas de usuario y validación de metodología.
 
 ---
 
@@ -64,10 +57,4 @@ Me apasiona construir software que resuelva problemas reales, desde aplicaciones
     - Listas personalizadas y seguimiento de progreso de lectura.
 - **Lo que aprendí:** Creación de SPAs (Single Page Applications) rápidas y fluidas con Vue y mejora de la interactividad en el cliente.
 
-> **Estado actual de la app:** Versión Beta (Pública en mis repositorios).
-
 ---
-
-## 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/ivan-vayad-63b6a9338/
-- **Email:** ivanvayad.2004@gmail.com
