@@ -1,5 +1,8 @@
 # ¡Hola, soy Iván Vayad Díaz!
-💻 **Estudiante de Ingeniería Informática** (último curso) en la Universidad de Zaragoza, especialización en **Ingeniería del Software**
+
+<a href="https://github.com/ivaanvd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Especializaci%C3%B3n+en+Ingenier%C3%ADa+del+Software" alt="Typing SVG" />
+</a>
  
 <!-- Section Badges -->
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-vayad-63b6a9338/)
