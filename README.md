@@ -54,3 +54,14 @@
   <a href="https://www.figma.com/es-es/" target="_blank"> <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a>
   <a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/canva-24BECA.svg?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/></a>
 </p>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Mi portfolio
+</h2>
+
+<p>
+  Visita mi portfolio aquí:  
+  <a href="https://www.ivanvayad.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ivanvayad.com-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
+  </a>
+</p>
