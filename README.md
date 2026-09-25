@@ -16,9 +16,21 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Estadísticas
 </h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ivaanvd&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ivaanvd&theme=default&hide_border=true" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivaanvd/ivaanvd/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivaanvd/ivaanvd/output/github-contribution-grid-snake.svg">
+        <img alt="Snake animation" src="https://raw.githubusercontent.com/ivaanvd/ivaanvd/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stack tecnológico
