@@ -32,6 +32,7 @@
 </p>
 <h3>Datos</h3>
 <p>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/postgreSQL-31648C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/mongodb-6CAC48.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
   <a href="https://pygeoapi.io/" target="_blank"> <img src="https://img.shields.io/badge/pygeoapi-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="pygeoapi"/></a>
 </p>
