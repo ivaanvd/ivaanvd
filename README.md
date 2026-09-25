@@ -65,3 +65,28 @@
     <img src="https://img.shields.io/badge/ivanvayad.com-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
   </a>
 </p>
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Mis proyectos
+</h2>
+
+| Nombre                                                            | Descripción                                                                                                                                                   |
+|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|_[Mi portfolio](https://github.com/ivaanvd/my-portfolio)_          |Mi portfolio personal en Astro                                                                                                                                 |
+| _[GeoAda](https://github.com/UNIZAR-30249-2026-G07)_              | Sistema para la visualización y reserva de salas en el edificio Ada Byron (Unizar), con mapa interactivo por plantas y validación de reservas basada en roles |
+| _[Proyecto Montgomery](https://github.com/UNIZAR-30256-2026-G17)_ | Portal de análisis y visualización de criminalidad en el Condado de Montgomery, con panel policial y cálculo de rutas más seguras mediante el índice IPP      |
+| _[Asistente Sanbot](https://github.com/ivaanvd/DCU-vitalia)_      | Interfaz asistencial para el robot humanoide Sanbot orientada a personas mayores, con recordatorio de medicación, botón de SOS y juegos cognitivos            |
+| _[Bookly](https://github.com/UNIZAR-30226-2025-60)_               | Plataforma interactiva tipo "Spotify de los libros" para gestión y lectura en la nube, con lector digital y comunidad de reseñas                              |
+ 
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contacta conmigo
+</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ivan-vayad-63b6a9338/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:ivanvayad.2004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/ivanvayad.2004@gmail.com-E84F4A.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://www.ivanvayad.com/contacto" target="_blank"> <img src="https://img.shields.io/badge/formulario-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="formulario de contacto"/></a> 
+</p>
+
+--- 
+ 
+Última actualización: 25/09/2026
