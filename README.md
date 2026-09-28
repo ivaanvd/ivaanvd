@@ -37,6 +37,7 @@
 </h2>
 <h3>Frontend</h3>
 <p>
+  <a href="https://astro.build/" target="_blank"> <img src="https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/></a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html-F26629.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
